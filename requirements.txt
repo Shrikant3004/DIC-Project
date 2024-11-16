@@ -1,0 +1,10 @@
+﻿certifi==2024.8.30
+charset-normalizer==3.4.0
+confluent-kafka==2.6.0
+idna==3.10
+kafka-python==2.0.2
+psutil==6.1.0
+psycopg2==2.9.10
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==2.2.3
